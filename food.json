@@ -1,0 +1,24 @@
+{
+    "foods": [
+        {   
+            "id": 1, 
+            "name": "Rice",
+            "Weight": "20Kg",
+            "Price_per_kg": "18rs" 
+        },
+
+        {   
+            "id": 2, 
+            "name": "Pulses",
+            "Weight": "40Kg",
+            "Price_per_kg": "31rs" 
+        },
+
+        {   
+            "id": 3, 
+            "name": "Wheats",
+            "Weight": "50Kg",
+            "Price_per_kg": "22rs" 
+        }
+      ]
+}
