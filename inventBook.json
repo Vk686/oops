@@ -1,0 +1,22 @@
+{
+    "productDetail": [
+        {
+            "productName": "Wheat",
+            "productQuantity": "32",
+            "productType": "RegularBase",
+            "productPrice": "18"
+        },
+        {
+            "productName": "Palse",
+            "productQuantity": "93",
+            "productType": "RegularBase",
+            "productPrice": "62"
+        },
+        {
+            "productName": "GroundNuts",
+            "productQuantity": "13",
+            "productType": "Rashiyan",
+            "productPrice": "70"
+        }
+    ]
+}
