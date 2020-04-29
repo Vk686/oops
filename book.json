@@ -1,0 +1,31 @@
+{
+    "personalDetail": [
+        {
+            "firstname": "Vishwas ",
+            "lastName": "Kushwaha",
+            "address": "Btm 1, Bengaluru",
+            "city": "Bengaluru",
+            "state": "Karnatka",
+            "zip": "560068",
+            "phoneNumber": "7897009366"
+        },
+        {
+            "firstname": "Vaibhav ",
+            "lastName": "Kushwaha",
+            "address": "Btm 1, Bengaluru",
+            "city": "Bengaluru",
+            "state": "Karnatka",
+            "zip": "560068",
+            "phoneNumber": "7905751671"
+        },
+        {
+            "firstname": "Vishwash",
+            "lastName": "raman",
+            "address": "btm 2",
+            "city": "bengalurur",
+            "state": "karnatnka",
+            "zip": "'560068",
+            "phoneNumber": "6987980"
+        }
+    ]
+}
