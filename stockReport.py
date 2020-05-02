@@ -58,3 +58,4 @@ def search(element):  # Search for Data Based on FirstName or MobileNumber or La
 
 search("VEDANTA")
 add()            
+#count(element)
